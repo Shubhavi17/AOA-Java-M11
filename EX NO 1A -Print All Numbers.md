@@ -27,8 +27,8 @@ End loop and stop the program.
 ```
 /*
 Program to implement Reverse a String
-Developed by: Santha Ramanath M
-RegisterNumber:  212223220097
+Developed by: Shubhavi M
+RegisterNumber:  212223040199
 
 */
 
